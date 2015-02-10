@@ -44,3 +44,4 @@ Anyway, let's make our final version of goddamn potato salad.
         }
 
 Well, there are many other programming paradigms like event-driven programming (E.g. ActionScript) , Aspect Oriented Programming (AOP) etc which are worth looking into. However, I'm gonna stop here because I'm hungry and wanna eat the 3 kinds of salad I just prepared.
+!(https://s3.amazonaws.com/ksr/projects/1070272/photo-1024x768.jpg?1405003988 "PotatoSalad")
